@@ -1,0 +1,13 @@
+c:\users\richjacobs\documents\visual studio 2015\Projects\Tpying-Race\Tpying-Race\bin\Debug\Tpying-Race.exe.config
+c:\users\richjacobs\documents\visual studio 2015\Projects\Tpying-Race\Tpying-Race\bin\Debug\Tpying-Race.exe
+c:\users\richjacobs\documents\visual studio 2015\Projects\Tpying-Race\Tpying-Race\bin\Debug\Tpying-Race.pdb
+c:\users\richjacobs\documents\visual studio 2015\Projects\Tpying-Race\Tpying-Race\obj\Debug\Tpying-Race.csprojResolveAssemblyReference.cache
+c:\users\richjacobs\documents\visual studio 2015\Projects\Tpying-Race\Tpying-Race\obj\Debug\Tpying_Race.Main.resources
+c:\users\richjacobs\documents\visual studio 2015\Projects\Tpying-Race\Tpying-Race\obj\Debug\Tpying_Race.Properties.Resources.resources
+c:\users\richjacobs\documents\visual studio 2015\Projects\Tpying-Race\Tpying-Race\obj\Debug\Tpying-Race.csproj.GenerateResource.Cache
+c:\users\richjacobs\documents\visual studio 2015\Projects\Tpying-Race\Tpying-Race\obj\Debug\Tpying-Race.exe
+c:\users\richjacobs\documents\visual studio 2015\Projects\Tpying-Race\Tpying-Race\obj\Debug\Tpying-Race.pdb
+C:\Users\RichJacobs\documents\visual studio 2015\Projects\Tpying-Race\Tpying-Race\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\RichJacobs\documents\visual studio 2015\Projects\Tpying-Race\Tpying-Race\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\RichJacobs\documents\visual studio 2015\Projects\Tpying-Race\Tpying-Race\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\RichJacobs\documents\visual studio 2015\Projects\Tpying-Race\Tpying-Race\obj\Debug\Tpying_Race.Settings.resources
